@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+
+/*Color ideal verde rgb(20, 126, 20) */
+/*Menu de arriba*/
+#manutex nav{
+    background-color:rgb(20, 126, 20);
+    margin: 0em;
+    padding: 0em;
+    align-items: center;
+    height: 250px;
+
+    
+    
+}
+
+
+/* */
+.secBan{
+    background-color:rgb(20, 126, 20) ;
+}
+
+.imagenBanner{
+    width: 100%;
+    margin: 0em;
+    padding: 0em;
+
+
+}
+
+
+/*El menu y formas de enlace*/
+#manutex li a{
+
+    
+    color:white;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 20px;
+    padding-right: 3%;
+    font-family: 'Oswald', sans-serif;
+    list-style-type:none;
+    text-align: center;
+    text-decoration: none;
+    letter-spacing: 1px;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 30px;
+
+    
+    
+}
+
+.letraMe{
+    padding-bottom: 20px;
+    text-align: center;
+
+}
+
+/*logo que va en la barra de menu*/
+#fotoNeofut{
+   width: 200px;
+   height: 200px;
+   justify-content: center;
+   padding-left: 30px;
+
+   
+
+}
+
+
+/*Titulos de las secciones*/
+#titulos{
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    color: white;
+    background-color:rgb(20, 126, 20);
+    font-weight: bold;
+    font-size: 4em;
+    text-align: center;
+    margin: 0em;
+    padding: 0em;
+    
+}
+
+
+/*Texto de la historia*/
+.textoUno{
+    font-family: 'Oswald', sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    margin: 0em;
+    padding: 0em;
+
+}
+
+/*Texto de servicio Neofut*/
+#textoDos{
+    font-family: 'Oswald', sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    margin: 0em;
+    padding: 0em;
+
+}
+
+/*Servicio detallada en lista*/
+#servicioTd{
+
+    font-family: 'Oswald', sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    color: rgb(20, 126, 20) ;
+    list-style: inside;
+
+
+}
+
+.parteBaja{
+    background-color:goldenrod;
+    padding-bottom: 3em;
+}
+
+/*Menu*/
+#menuDos nav{
+    margin: 0em;
+    padding: 0em;
+    align-items: center;
+    background-color:rgb(20, 126, 20);
+    
+
+
+}
+
+
+/*Menu de jugadores textos e imagenes*/
+.menuJu a{
+    color:white;
+    font-size: 3em;
+    font-weight: bold;
+    line-height: 20px;
+    padding-right: 3%;
+    font-family: 'Oswald', sans-serif;
+    list-style-type:none;
+    text-align: center;
+    text-decoration: none;
+    letter-spacing: 1px;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+#fotoNeofutJugadores{
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+}
+
+#benjaminA {
+
+background-color: black;
+font-family: 'Oswald', sans-serif;
+font-size: 2em;
+font-weight: bold;
+color: white;
+height: 500px;
+
+
+}
+
+.videoBenja{
+    width: 400px;
+    float: left;
+    height: 400px;
+}
+
+.textBe{
+    text-align: right;
+}
+
+#diegoS {
+
+    background-color:rgb(20, 126, 20);
+    font-family: 'Oswald', sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    color: white;
+    
+    
+    }
+
+#eduardoP {
+    background-color: black;
+    font-family: 'Oswald', sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    color: white;
+
+
+}
+
+.parteBajaDos {
+    background-color: gold;
+
+}
